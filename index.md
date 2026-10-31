@@ -1,0 +1,17 @@
+---
+layout: default
+---
+# Josh Hall
+## Computer Science ePortfolio
+Welcome to my ePortfolio for my Computer Science Capstone at Southern New Hampshire University. This site showcases three projects from my coursework that I am enhancing to demonstrate my skills in software design and engineering, algorithms and data structures, and databases.
+## Professional Self-Assessment
+Coming soon.
+## Code Review
+Coming soon.
+## Enhancements
+### Software Design and Engineering
+CS 320 Contact, Task, and Appointment Services, rebuilt as a secured Spring Boot REST API.
+### Algorithms and Data Structures
+CS 330 Collision Detection, optimized with a uniform grid for spatial partitioning.
+### Databases
+CS 340 Grazioso Salvare Dashboard, enhanced with indexing, aggregation pipelines, and database security.
