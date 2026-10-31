@@ -19,3 +19,5 @@ CS 330 Collision Detection, optimized with a uniform grid for spatial partitioni
 - [View the original version](https://github.com/jhall90/CS330-Collision-Detection/tree/v1.0-original)
 ### Databases
 CS 340 Grazioso Salvare Dashboard, enhanced with indexing, aggregation pipelines, and database security.
+- [View the code on GitHub](https://github.com/jhall90/CS340-Grazioso-Salvare-Dashboard)
+- [View the original version](https://github.com/jhall90/CS340-Grazioso-Salvare-Dashboard/tree/v1.0-original)
