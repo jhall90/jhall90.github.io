@@ -11,6 +11,8 @@ Coming soon.
 ## Enhancements
 ### Software Design and Engineering
 CS 320 Contact, Task, and Appointment Services, rebuilt as a secured Spring Boot REST API.
+- [View the code on GitHub](https://github.com/jhall90/CS320-Contact-Task-Appointment-Services)
+- [View the original version](https://github.com/jhall90/CS320-Contact-Task-Appointment-Services/tree/v1.0-original)
 ### Algorithms and Data Structures
 CS 330 Collision Detection, optimized with a uniform grid for spatial partitioning.
 ### Databases
