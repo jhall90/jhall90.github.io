@@ -15,5 +15,7 @@ CS 320 Contact, Task, and Appointment Services, rebuilt as a secured Spring Boot
 - [View the original version](https://github.com/jhall90/CS320-Contact-Task-Appointment-Services/tree/v1.0-original)
 ### Algorithms and Data Structures
 CS 330 Collision Detection, optimized with a uniform grid for spatial partitioning.
+- [View the code on GitHub](https://github.com/jhall90/CS330-Collision-Detection)
+- [View the original version](https://github.com/jhall90/CS330-Collision-Detection/tree/v1.0-original)
 ### Databases
 CS 340 Grazioso Salvare Dashboard, enhanced with indexing, aggregation pipelines, and database security.
